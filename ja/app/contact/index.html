@@ -2,28 +2,59 @@
 <html lang="ja">
 <head>
   <meta charset="UTF-8">
-  <title>Title</title>
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>お問い合わせ | EventWatch</title>
+  <link rel="stylesheet" href="common.css">
+  <link rel="stylesheet" href="index.css">
   <link rel="stylesheet" href="form.css">
 </head>
 <body>
 
-<form
-    action="https://docs.google.com/forms/u/0/d/e/1FAIpQLSef5txq-cnQ_2s3nme2xG3uxOT-70JtL68oGD3hzQs3VgFLSA/formResponse"
-    method="POST"
-    target="hidden_iframe"
-    onsubmit="submitted=true;"
->
-  <label for="fieldName">
-    <input id="fieldName" name="entry.1606994501" type="text" class="feedback-input" placeholder="お名前"/>
-  </label>
-  <label for="fieldEmail">
-    <input id="fieldEmail" name="entry.1366592901" type="email" class="feedback-input" placeholder="メールアドレス"/>
-  </label>
-  <label for="fieldText">
-    <textarea id="fieldText" name="entry.228577422" class="feedback-input" placeholder="コメント"></textarea>
-  </label>
-  <input type="submit" value="送信する"/>
-</form>
+<main>
+  <div class="hl-wrapper">
+    <img src="./assets/ew-horizontal-logo-around-white.png" alt="EventWatch">
+  </div>
+
+  <div class="space-5"></div>
+  <h1>お問い合わせ</h1>
+
+  <div class="space-4"></div>
+  <p>
+    ご質問、ご要望、テクニカルサポートが必要な場合、またはその他のお問い合わせがある場合は、以下のフォームを使用して、私たちにメッセージをお送りください。
+  </p>
+
+  <div class="space-5"></div>
+  <form
+      action="https://docs.google.com/forms/u/0/d/e/1FAIpQLSef5txq-cnQ_2s3nme2xG3uxOT-70JtL68oGD3hzQs3VgFLSA/formResponse"
+      method="POST"
+      target="hidden_iframe"
+      onsubmit="submitted=true;"
+  >
+    <label for="fieldName">
+      <input id="fieldName" name="entry.1606994501" type="text" class="feedback-input" placeholder="お名前"/>
+    </label>
+    <label for="fieldEmail">
+      <input id="fieldEmail" name="entry.1366592901" type="email" class="feedback-input" placeholder="メールアドレス"/>
+    </label>
+    <label for="fieldText">
+      <textarea id="fieldText" name="entry.228577422" class="feedback-input" placeholder="コメント"></textarea>
+    </label>
+    <input type="submit" value="送信する"/>
+  </form>
+
+  <div class="space-4"></div>
+  <p>
+    個人情報は、このお問い合わせの対応の目的以外には使用いたしません。
+  </p>
+</main>
+
+<footer>
+  <div class="copy-wrapper">
+    <span class="copy-icon">&copy;</span>
+    <span class="copy-text">EventWatch</span>
+  </div>
+</footer>
+
 
 <script type="text/javascript">
     let submitted = false;

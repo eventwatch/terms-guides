@@ -1,0 +1,15 @@
+main {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  max-width: var(--extra-small-max-width);
+  margin: auto;
+  padding: var(--space-5) var(--space-2);
+}
+
+.hl-wrapper {
+  display: flex;
+  justify-content: center;
+  width: 400px;
+  max-width: 100%;
+}
