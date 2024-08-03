@@ -13,7 +13,7 @@
 
 ### EventWatch アプリ
 
-- [お問い合わせ](https://eventwatch.github.io/terms-guides/ja/app/contact/index.html)
+- [お問い合わせ](https://eventwatch.github.io/terms-guides/ja/app/contact/)
 - [プライバシーポリシー](https://eventwatch.github.io/terms-guides/ja/app/privacy-policy/)
 - [利用規約](https://eventwatch.github.io/terms-guides/ja/app/terms-and-conditions/)
 
