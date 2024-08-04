@@ -1,5 +1,3 @@
-@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
-
 :root {
   --primary: #9fcafc;
   --surface-tint: #9fcafc;
@@ -74,6 +72,7 @@ img {
 
 h1, p {
   margin: 0;
+  line-height: 1.75;
 }
 
 a {
@@ -81,6 +80,8 @@ a {
 }
 
 small {
+  display: block;
+  line-height: 1.75;
   font-size: 0.7rem;
   color: var(--on-surface-variant);
 }
