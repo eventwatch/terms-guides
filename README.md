@@ -6,16 +6,17 @@
 
 ### EventWatch App
 
-- [Privacy Policy](https://eventwatch.github.io/terms-guides/en/app/privacy-policy/)
 - [Terms and Conditions](https://eventwatch.github.io/terms-guides/en/app/terms-and-conditions/)
+- [Privacy Policy](https://eventwatch.github.io/terms-guides/en/app/privacy-policy/)
+- [Contact Us](https://eventwatch.github.io/terms-guides/en/app/contact/)
 
 ## 日本語
 
 ### EventWatch アプリ
 
-- [お問い合わせ](https://eventwatch.github.io/terms-guides/ja/app/contact/)
-- [プライバシーポリシー](https://eventwatch.github.io/terms-guides/ja/app/privacy-policy/)
 - [利用規約](https://eventwatch.github.io/terms-guides/ja/app/terms-and-conditions/)
+- [プライバシーポリシー](https://eventwatch.github.io/terms-guides/ja/app/privacy-policy/)
+- [お問い合わせ](https://eventwatch.github.io/terms-guides/ja/app/contact/)
 
 # Generator
 

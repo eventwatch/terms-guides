@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Contact Us | EventWatch</title>
+  <link rel="stylesheet" href="common.css">
+  <link rel="stylesheet" href="index.css">
+  <link rel="stylesheet" href="form.css">
+</head>
+<body>
+
+<main>
+  <div class="hl-wrapper">
+    <img src="./assets/ew-horizontal-logo-around-white.png" alt="EventWatch">
+  </div>
+
+  <div class="space-5"></div>
+  <h1>Contact Us</h1>
+
+  <div class="space-4"></div>
+  <p>
+    If you have any questions, requests, need technical support, or have other inquiries, please use the form below to send us a message.
+  </p>
+
+  <div class="space-5"></div>
+  <form
+      action="https://docs.google.com/forms/u/0/d/e/1FAIpQLSef5txq-cnQ_2s3nme2xG3uxOT-70JtL68oGD3hzQs3VgFLSA/formResponse"
+      method="POST"
+      target="hidden_iframe"
+      onsubmit="submitted=true;"
+  >
+    <label for="fieldName">
+      <input id="fieldName" name="entry.1606994501" type="text" class="feedback-input" placeholder="Your Name"/>
+    </label>
+    <label for="fieldEmail">
+      <input id="fieldEmail" name="entry.1366592901" type="email" class="feedback-input" placeholder="Email Address"/>
+    </label>
+    <label for="fieldText">
+      <textarea id="fieldText" name="entry.228577422" class="feedback-input" placeholder="Comment"></textarea>
+    </label>
+    <input name="entry.1621770504" type="hidden" value="en"/>
+    <input type="submit" value="Submit"/>
+  </form>
+
+  <div class="space-4"></div>
+  <p>
+    Personal information will not be used for purposes other than responding to this inquiry.
+  </p>
+</main>
+
+<footer>
+  <div class="copy-wrapper">
+    <span class="copy-icon">&copy;</span>
+    <span class="copy-text">EventWatch</span>
+  </div>
+</footer>
+
+
+<script type="text/javascript">
+    let submitted = false;
+</script>
+<iframe
+    name="hidden_iframe"
+    id="hidden_iframe"
+    style="display: none"
+    onload="if(submitted){window.location='./thanks/index.html';}"
+></iframe>
+
+</body>
+</html>
