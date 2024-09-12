@@ -1,4 +1,10 @@
-# EventWatch Terms and Conditions
+---
+layout: default
+lang: en
+title: EventWatch App Terms and Conditions
+---
+
+# EventWatch App Terms and Conditions
 
 **Terms & Conditions**
 

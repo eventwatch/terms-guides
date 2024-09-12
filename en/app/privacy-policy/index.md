@@ -1,4 +1,10 @@
-# EventWatch Privacy Policy
+---
+layout: default
+lang: en
+title: EventWatch App Privacy Policy
+---
+
+# EventWatch App Privacy Policy
 
 **Privacy Policy**
 

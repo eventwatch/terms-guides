@@ -1,4 +1,10 @@
-# EventWatch 利用規約
+---
+layout: default
+lang: ja
+title: EventWatch アプリ 利用規約
+---
+
+# EventWatch アプリ 利用規約
 
 **利用規約**
 

@@ -1,4 +1,10 @@
-# EventWatch プライバシーポリシー
+---
+layout: default
+lang: ja
+title: EventWatch アプリ プライバシーポリシー
+---
+
+# EventWatch アプリ プライバシーポリシー
 
 **プライバシーポリシー**
 
