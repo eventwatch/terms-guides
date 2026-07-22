@@ -32,12 +32,21 @@ In terms of the Service Provider's responsibility for your use of the applicatio
 
 The Service Provider may wish to update the application at some point. The application is currently available as per the requirements for the operating system (and for any additional systems they decide to extend the availability of the application to) may change, and you will need to download the updates if you want to continue using the application. The Service Provider does not guarantee that it will always update the application so that it is relevant to you and/or compatible with the particular operating system version installed on your device. However, you agree to always accept updates to the application when offered to you. The Service Provider may also wish to cease providing the application and may terminate its use at any time without providing termination notice to you. Unless they inform you otherwise, upon any termination, (a) the rights and licenses granted to you in these terms will end; (b) you must cease using the application, and (if necessary) delete it from your device.
 
+**Displayed Event Information and Copyright**
+
+The Application collects, structures, and displays event information published by third parties (such as event organizers). Please note the following regarding the handling of this information:
+
+*   The Application displays OGP (Open Graph Protocol) information from linked sites, such as titles and images, for the purpose of previewing the linked page.
+*   The copyright of images and other materials included in event information belongs to their respective rights holders. The Application merely displays these images as previews of the linked pages.
+*   The Service Provider does not guarantee the accuracy, completeness, or timeliness of the event information displayed by the Application. Please always confirm the latest and accurate information on the official website of each event.
+*   If a rights holder requests the removal of displayed event information or images, the Service Provider will respond promptly. Please send such requests to contact@eventwatch.app or via the contact form ( https://eventwatch.github.io/terms-guides/en/app/contact/ ).
+
 **Changes to These Terms and Conditions**
 
 The Service Provider may periodically update their Terms and Conditions. Therefore, you are advised to review this page regularly for any changes. The Service Provider will notify you of any changes by posting the new Terms and Conditions on this page.
 
-These terms and conditions are effective as of 2024-07-17
+These terms and conditions are effective as of 2026-07-21
 
 **Contact Us**
 
-If you have any questions or suggestions about the Terms and Conditions, please do not hesitate to contact the Service Provider at contact@event-watch.net.
+If you have any questions or suggestions about the Terms and Conditions, please do not hesitate to contact the Service Provider at contact@eventwatch.app.
