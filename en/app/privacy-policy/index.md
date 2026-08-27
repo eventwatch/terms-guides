@@ -55,6 +55,14 @@ You can stop all collection of information by the Application easily by uninstal
 
 The Service Provider will retain User Provided data for as long as you use the Application and for a reasonable time thereafter. If you'd like them to delete User Provided Data that you have provided via the Application, please contact them at contact@eventwatch.app and they will respond in a reasonable time.
 
+**Contact Details Received Through Event Reports**
+
+When you report an event, you may optionally provide contact details (such as an email address) so that the Service Provider can reply. These contact details are used only to inform you of the outcome of that report. You may submit a report without contact details, in which case the outcome cannot be communicated to you.
+
+The Service Provider does **not** store information that identifies the reporter (such as an IP address or a hash of one). As a result, a specific report cannot be located on the basis of a request from the person who submitted it, and individual deletion requests for the contact details recorded in a report cannot be fulfilled.
+
+Instead, the contact details are **erased automatically 90 days after the report has been resolved or dismissed**. The report itself (the event concerned, the reason category, the text submitted, and the outcome) is retained as the basis for responding to rights holders.
+
 **Children**
 
 The Service Provider does not use the Application to knowingly solicit data from or market to children under the age of 13.
