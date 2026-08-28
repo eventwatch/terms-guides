@@ -42,11 +42,19 @@ The Application collects, structures, and displays event information published b
 *   For event information posted by organizers themselves, the poster is responsible for its content. The conditions for accepting posts, the ownership of rights in posted content, and the cases in which publication is suspended are set out in the EventWatch web service Terms of Use ( https://eventwatch.app/en/terms ). **Events cannot be posted from the Application.**
 *   If a rights holder requests the removal of displayed event information or images, the Service Provider will respond promptly. Please send such requests to contact@eventwatch.app or via the contact form ( https://eventwatch.github.io/terms-guides/en/app/contact/ ).
 
+**Handling of Objectionable Content**
+
+The Service Provider has **no tolerance for objectionable content**, including content that violates laws or public order and morals, infringes the rights of others, defames or harasses others, is obscene, or exists only to advertise an event that will not actually take place.
+
+*   Where the Service Provider determines that content is objectionable, it may suspend or remove the event listing without prior notice, and may stop accepting posts from a poster who repeats such behaviour. The prohibited conduct and the cases in which publication is suspended are set out in the EventWatch web service Terms of Use ( https://eventwatch.app/en/terms ).
+*   If you find objectionable content, you can report it from the menu at the top right of the event screen. The Service Provider reviews reports and takes the measures it considers necessary.
+*   Separately from reporting, you can **hide a particular event or organizer**. Hidden items no longer appear in your feed or in search results, and you can bring them back at any time from "Hidden content" in Settings.
+
 **Changes to These Terms and Conditions**
 
 The Service Provider may periodically update their Terms and Conditions. Therefore, you are advised to review this page regularly for any changes. The Service Provider will notify you of any changes by posting the new Terms and Conditions on this page.
 
-These terms and conditions are effective as of 2026-08-27
+These terms and conditions are effective as of 2026-08-28
 
 **Contact Us**
 
