@@ -61,7 +61,7 @@ When you report an event, you may optionally provide contact details (such as an
 
 The Service Provider does **not** store information that identifies the reporter (such as an IP address or a hash of one). As a result, a specific report cannot be located on the basis of a request from the person who submitted it, and individual deletion requests for the contact details recorded in a report cannot be fulfilled.
 
-The report itself (the event concerned, the reason category, the text submitted, and the outcome) is retained as the basis for responding to rights holders. Any contact details you provide are retained as part of that record.
+Instead, the contact details are **erased automatically 90 days after the report has been resolved or dismissed**. The report itself (the event concerned, the reason category, the text submitted, and the outcome) is retained as the basis for responding to rights holders.
 
 **Children**
 
