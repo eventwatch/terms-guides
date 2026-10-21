@@ -33,13 +33,14 @@ For a better experience, while using the Application, the Service Provider may r
 
 **Third Party Access**
 
-Only aggregated, anonymized data is periodically transmitted to external services to aid the Service Provider in improving the Application and their service. The Service Provider may share your information with third parties in the ways that are described in this privacy statement.
+Only aggregated, anonymized data is periodically transmitted to external services to aid the Service Provider in improving the Application and their service. The Service Provider may share your information with third parties in the ways that are described in this privacy statement. However, when the Service Provider replies by email to the contact details of a report, the recipient address, subject, and body are passed to an email delivery provider.
 
 Please note that the Application utilizes third-party services that have their own Privacy Policy about handling data. Below are the links to the Privacy Policy of the third-party service providers used by the Application:
 
 *   [Google Play Services](https://www.google.com/policies/privacy/)
 *   [Google Analytics for Firebase](https://firebase.google.com/support/privacy)
 *   [Firebase Crashlytics](https://firebase.google.com/support/privacy/)
+*   [Resend](https://resend.com/legal/privacy-policy) (emails the Service Provider sends to the contact details of a report; the recipient address, subject, and body are passed to it)
 
 The Service Provider may disclose User Provided and Automatically Collected Information:
 
@@ -57,11 +58,13 @@ The Service Provider will retain User Provided data for as long as you use the A
 
 **Contact Details Received Through Event Reports**
 
-When you report an event, you may optionally provide contact details (such as an email address, a phone number or a social account) so that the Service Provider can reply. These contact details are used only to inform you of the outcome of that report. You may submit a report without contact details, in which case the outcome cannot be communicated to you.
+When you report an event, you may optionally provide contact details (such as an email address, a phone number or a social account). These contact details are used only to reach you about that report when the Service Provider decides a reply is needed. The Service Provider does not notify you of the outcome individually. If the contact details are an email address, the Service Provider may email you from contact@eventwatch.app. For any other kind of contact details, the Service Provider reaches you through that channel. You may submit a report without contact details, in which case the Service Provider cannot reply.
 
 The Service Provider does **not** store information that identifies the reporter (such as an IP address or a hash of one). As a result, a specific report cannot be located on the basis of a request from the person who submitted it, and individual deletion requests for the contact details recorded in a report cannot be fulfilled.
 
 Instead, the contact details are **erased automatically 90 days after the report has been resolved or dismissed**. The report itself (the event concerned, the reason category, the text submitted, and the outcome) is retained as the basis for responding to rights holders.
+
+When the Service Provider replies by email to the contact details of a report, the subject and body of that reply are erased at the same time as the contact details (90 days after the report has been resolved or dismissed). The record of when the reply was sent and which staff member sent it is kept. The recipient's email address is not kept in the reply record. Emails you send back in response to a reply arrive in the Service Provider's inbox and are not covered by this automatic erasure. If you ask the Service Provider at contact@eventwatch.app from the email address you sent them from, they will be deleted.
 
 **Children**
 
@@ -78,6 +81,8 @@ The Service Provider is concerned about safeguarding the confidentiality of your
 This Privacy Policy may be updated from time to time for any reason. The Service Provider will notify you of any changes to the Privacy Policy by updating this page with the new Privacy Policy. You are advised to consult this Privacy Policy regularly for any changes, as continued use is deemed approval of all changes.
 
 This privacy policy is effective as of 2024-07-17
+
+Last updated: 2026-10-21
 
 **Your Consent**
 
