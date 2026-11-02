@@ -35,7 +35,7 @@ For a better experience, while using the Application, the Service Provider may r
 
 Only aggregated, anonymized data is periodically transmitted to external services to aid the Service Provider in improving the Application and their service. The Service Provider may share your information with third parties in the ways that are described in this privacy statement. However, when the Service Provider replies by email to the contact details of a report, the recipient address, subject, and body are passed to an email delivery provider.
 
-Organizers can also embed YouTube and Vimeo videos in an event description. Only when you press the video's play button (such as "Play video") on an event page in the Application is the following information sent from your device to the recipients below. Nothing is sent to YouTube or Vimeo until you press it (not even the video thumbnail is loaded).
+Organizers can also embed YouTube and Vimeo videos in an event description. Only when you press the video's play button (such as "Play video") on an event page in the Application is the following information sent from your device to the recipients below. For these videos, nothing is sent to YouTube or Vimeo until you press it (not even the video thumbnail is loaded).
 
 *   Information sent: your IP address, information about your device such as the operating system and the in-app browser, the video being played, a value identifying the Application (`https://app.eventwatch`) as the referrer, and cookies and similar data each company stores on your device
 *   Recipients: Google LLC (YouTube) and Vimeo.com, Inc. (Vimeo)
