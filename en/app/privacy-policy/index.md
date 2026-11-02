@@ -35,12 +35,22 @@ For a better experience, while using the Application, the Service Provider may r
 
 Only aggregated, anonymized data is periodically transmitted to external services to aid the Service Provider in improving the Application and their service. The Service Provider may share your information with third parties in the ways that are described in this privacy statement. However, when the Service Provider replies by email to the contact details of a report, the recipient address, subject, and body are passed to an email delivery provider.
 
+Organizers can also embed YouTube and Vimeo videos in an event description. Only when you press the video's play button (such as "Play video") on an event page in the Application is the following information sent from your device to the recipients below. For these videos, nothing is sent to YouTube or Vimeo until you press it (not even the video thumbnail is loaded).
+
+*   Information sent: your IP address, information about your device such as the operating system and the in-app browser, the video being played, a value identifying the Application (`https://app.eventwatch`) as the referrer, and cookies and similar data each company stores on your device
+*   Recipients: Google LLC (YouTube) and Vimeo.com, Inc. (Vimeo)
+*   Purpose: to play the video. How the recipients handle this information is governed by their privacy policies listed below
+
+Videos are shown in YouTube's privacy-enhanced mode (`youtube-nocookie.com`) and with Vimeo's do-not-track setting, but this does not mean that no cookies or similar data from these companies are used at all.
+
 Please note that the Application utilizes third-party services that have their own Privacy Policy about handling data. Below are the links to the Privacy Policy of the third-party service providers used by the Application:
 
 *   [Google Play Services](https://www.google.com/policies/privacy/)
 *   [Google Analytics for Firebase](https://firebase.google.com/support/privacy)
 *   [Firebase Crashlytics](https://firebase.google.com/support/privacy/)
 *   [Resend](https://resend.com/legal/privacy-policy) (emails the Service Provider sends to the contact details of a report; the recipient address, subject, and body are passed to it)
+*   [YouTube](https://policies.google.com/privacy) (videos in event descriptions; as described above, nothing is sent until you press the play button)
+*   [Vimeo](https://vimeo.com/privacy) (videos in event descriptions; as described above, nothing is sent until you press the play button)
 
 The Service Provider may disclose User Provided and Automatically Collected Information:
 
@@ -82,7 +92,7 @@ This Privacy Policy may be updated from time to time for any reason. The Service
 
 This privacy policy is effective as of 2024-07-17
 
-Last updated: 2026-10-21
+Last updated: 2026-11-02
 
 **Your Consent**
 
